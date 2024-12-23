@@ -5,8 +5,8 @@ public class Array_Assingnment_2 {
 	public static void main(String[] args) {
 
 		/*
-		 * 
-		 * 
+		 * 3D Array use to store products for Supermarket, there are two categories and inside four subcategories
+		 * Beverages , Snacks , Dairy Products, Produce , and Produce these are subcategories for products 
 		 * 
 		 * 
 		 */
