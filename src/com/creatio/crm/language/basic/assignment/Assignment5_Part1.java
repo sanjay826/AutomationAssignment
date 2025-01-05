@@ -73,7 +73,7 @@ public class Assignment5_Part1 {
 		superhitMovie.add("Pushpa");
 		
 		//Printed 3rd highest-grossing movies of all time
-		System.out.println("highest-grossing movies of all time"+superhitMovie.get(2));
+		System.out.println("Highest-grossing movies of all time"+superhitMovie.get(2));
 		
 		// Printed all movie list
 		System.out.println(superhitMovie);

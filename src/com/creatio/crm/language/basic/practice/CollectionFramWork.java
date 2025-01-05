@@ -224,7 +224,7 @@ public class CollectionFramWork {
 		 * Syntax to access the value : variable.get(key);
 		 * Syntax to get the total the value : variable.size();
 		 * Order : Ascending order keys 
-		 * Null : not allowed keys allowed , Null value is  allowed. 
+		 * Null : Null not allowed keys but Null value is  allowed. 
 		 */
 		System.out.println("*********TreeMap**************");
 		
