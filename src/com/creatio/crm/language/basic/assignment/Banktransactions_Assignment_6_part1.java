@@ -38,7 +38,7 @@ public class Banktransactions_Assignment_6_part1 {
 		//suspiciousCount is taken as int type variable with 0 initialization
 		int suspiciousCount = 0;
 		// for each loop for check each and very transactions with if condition 10000 above transactions 
-		for (int amount : transactions.values()) {
+		for (Integer amount : transactions.values()) {
 			if (amount > 10000 || amount < -10000) {
 				//Printed all Suspicious transaction
 				System.out.println("Suspicious transaction with amount: " + amount);

@@ -1,22 +1,22 @@
 package com.creatio.crm.language.basic.assignment;
 
-public class Assignment6Part2 {
+public class Assignment_6_Part2 {
 
 	public static void main(String[] args) {
-         
-		String customerName="john Doe";
+
+		String customerName = "john Doe";
 		int creditScore = 720;
 		int income = 55000;
 		boolean employed = true;
 		double debtToIncomeRatio = 35.0;
-		
-		System.out.println("Customer Namer :" +customerName);
+
+		System.out.println("Customer Namer :" + customerName);
 
 		if (creditScore > 750) {
-			System.out.println("The loan is automatically approved!!!" +creditScore);
+			System.out.println("The loan is automatically approved!!!" + creditScore);
 
 		} else if (creditScore >= 650 && creditScore <= 750) {
-			System.out.println("additional checks are performed :"+creditScore);
+			System.out.println("additional checks are performed :" + creditScore);
 			if (income >= 50000) {
 				System.out.println("Customer met the icome creteria :" + income);
 
