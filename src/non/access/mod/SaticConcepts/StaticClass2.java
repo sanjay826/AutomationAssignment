@@ -13,7 +13,9 @@ public class StaticClass2 {
 	}
 
 	public static void main(String[] args) {
-		
+		StaticClass2 obj=new StaticClass2();
+		System.out.println(obj.name1);
+		System.out.println(name2);
 
 	}
 

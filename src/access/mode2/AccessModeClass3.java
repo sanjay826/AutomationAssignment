@@ -6,7 +6,7 @@ public class AccessModeClass3  {
 
 	public static void main(String[] args) {
 		
-		AccessModeClass1 obj=new AccessModeClass1();
+		 AccessModeClass1 obj=new AccessModeClass1(); 
 		
 		
 	 obj.printEmpDetails(); 
