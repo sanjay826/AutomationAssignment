@@ -17,7 +17,7 @@ public class Assignment_13_PartA_1 {
 
 	public static void main(String[] args) {
 
-		String sentence = "Java programming is fun and challenging";
+		String sentence = "fun and challenging";
 		System.out.println("Number of words: " + countWords(sentence));
 	}
 
