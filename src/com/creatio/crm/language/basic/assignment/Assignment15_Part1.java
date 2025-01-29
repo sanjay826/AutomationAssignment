@@ -1,3 +1,4 @@
+package com.creatio.crm.language.basic.assignment;
 public class Assignment15_Part1 {
 	public static void main(String[] args) {
 		String input = "I Love Dogs";
